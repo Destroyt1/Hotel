@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MullerThinDEMO';
+    src: url('fonts/MullerThinDEMO.eot');
+    src: url('fonts/MullerThinDEMO.eot') format('embedded-opentype'),
+         url('fonts/MullerThinDEMO.woff2') format('woff2'),
+         url('fonts/MullerThinDEMO.woff') format('woff'),
+         url('fonts/MullerThinDEMO.ttf') format('truetype'),
+         url('fonts/MullerThinDEMO.svg#MullerThinDEMO') format('svg');
+}

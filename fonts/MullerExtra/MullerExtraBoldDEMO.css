@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MullerExtraBoldDEMO';
+    src: url('fonts/MullerExtraBoldDEMO.eot');
+    src: url('fonts/MullerExtraBoldDEMO.eot') format('embedded-opentype'),
+         url('fonts/MullerExtraBoldDEMO.woff2') format('woff2'),
+         url('fonts/MullerExtraBoldDEMO.woff') format('woff'),
+         url('fonts/MullerExtraBoldDEMO.ttf') format('truetype'),
+         url('fonts/MullerExtraBoldDEMO.svg#MullerExtraBoldDEMO') format('svg');
+}
